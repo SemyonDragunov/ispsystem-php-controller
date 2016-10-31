@@ -1,4 +1,4 @@
-# PHP Controller для API ISPsystem
+# PHP Controller для API ISPsystem 5
 
 Необходимо PHP >= 5.4
 
